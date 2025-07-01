@@ -129,13 +129,13 @@ server {
 
 
 # Technologies Used
-- PHP
+- PHP8
 - MySQL
 - NginX
 - JavaScript
 - HTML5
 - CSS3
-- Bootstrap
+- Bootstrap5 (https://bootswatch.com/quartz/)
 
 
 
