@@ -66,7 +66,7 @@ server {
     listen       8080;
     server_name  localhost;
 
-    root /Users/khalisramni/Desktop/StarMediaGroup/PracticalTestMyWebsite;
+    root /Users/yourusername/Desktop/StarMediaGroup/PracticalTestMyWebsite;
     index index.php index.html;
 
     client_body_timeout     5s;
@@ -91,14 +91,5 @@ server {
     }
 }
 **Make sure to update the root path to your local project directory.**
-
-**
-## Technologies Used**
-- PHP 7/8
-- MySQL
-- NGINX
-- JavaScript (Vanilla)
-- Bootstrap (Quartz theme), https://bootswatch.com/quartz/
-- HTML5 & CSS3
 
 
