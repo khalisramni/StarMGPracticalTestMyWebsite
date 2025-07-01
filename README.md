@@ -92,3 +92,41 @@ server {
 }
 
 # Make sure to update the root path to your local project directory.
+
+```
+# PracticalTestMyWebsite
+
+## Interface Screenshots
+
+### Home Page
+
+![Home Page](assets/images/localhost_8080_.png)
+![Home Page - mobile view](assets/images/localhost_8080_mobile.png)
+
+### About Us Page
+
+![About Page](assets/images/localhost_8080_about.png)
+![About Page - mobile view](assets/images/localhost_8080_about_mobile.png)
+
+
+### Privacy Page
+
+![Privacy Page](assets/images/localhost_8080_privacy.png)
+![Privacy Page - mobile view](assets/images/localhost_8080_privacy_mobile.png)
+
+### Terms & Conditions Page
+
+![Legal Page](assets/images/localhost_8080_legal.png)
+![Legal Page - mobile view](assets/images/localhost_8080_legal_mobile.png)
+
+### Privacy Consent
+#### Consent
+![Privacy Cookies Accepted](assets/images/privacy_consent_cookies.png)
+#### Consent (Save to DB)
+![Privacy Cookies Accepted - Save Record to DB](assets/images/privacy_consent_data_saved_DB.png)
+#### Declined
+![Privacy Cookies Declined](assets/images/privacy_declined_cookies.png)
+
+
+
+
