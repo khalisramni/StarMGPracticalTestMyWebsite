@@ -91,6 +91,8 @@ server {
     }
 }
 
-Make sure to update the root path to your local project directory.
+# Make sure to update the root path to your local project directory.
 
+---
 
+## NGINX Setup
