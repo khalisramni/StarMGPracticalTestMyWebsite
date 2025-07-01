@@ -90,6 +90,7 @@ server {
         fastcgi_busy_buffers_size 256k;
     }
 }
-**Make sure to update the root path to your local project directory.**
+
+Make sure to update the root path to your local project directory.
 
 
