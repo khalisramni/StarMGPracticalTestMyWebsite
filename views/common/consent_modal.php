@@ -4,7 +4,7 @@
     <div class="mb-3 mb-md-0">
       Cookies are necessary for this website to function properly, for performance measurement, and to provide you with the best experience.
       By continuing to access or use this site, you acknowledge and consent to our 
-      <a href="/terms" class="text-info">Terms & Conditions</a> and <a href="/privacy" class="text-info">Privacy Statement</a>.
+      <a href="/legal" class="text-info">Terms & Conditions</a> and <a href="/privacy" class="text-info">Privacy Statement</a>.
     </div>
     <div>
       <button id="accept-consent" class="btn btn-primary me-2">Accept</button>
