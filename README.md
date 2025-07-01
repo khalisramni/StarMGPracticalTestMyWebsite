@@ -128,5 +128,15 @@ server {
 ![Privacy Cookies Declined](assets/images/privacy_declined_cookies.png)
 
 
+# Technologies Used
+- PHP
+- MySQL
+- NginX
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+
+
 
 
